@@ -1,1 +1,44 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+venv/
+env/
+ENV/
+*.egg-info/
+dist/
+build/
+
+# Scan Results & Logs
+scan_results.json
+scan_results_summary.txt
+oscp_enum_results.json
+oscp_enum_summary.txt
+network_scanner.log
+*.log
+
+# Visual Studio
 .vs/
+.vscode/
+*.suo
+*.user
+*.userosensitivity
+*.sln.docstates
+*.sln
+*.pyproj
+
+# IDE
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Environment
+.env
+.env.local
