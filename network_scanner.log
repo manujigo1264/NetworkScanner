@@ -4,3 +4,14 @@
 2025-09-29 22:17:26,909 - INFO - Scanning 127.0.0.1
 2025-09-29 22:18:24,311 - INFO - Results saved to scan_results.json
 2025-09-29 22:18:24,311 - INFO - Scan complete
+2025-09-29 22:26:22,716 - INFO - Starting discovery on 127.0.0.1
+2025-09-29 22:26:23,034 - INFO - Found 1 active devices: ['127.0.0.1']
+2025-09-29 22:26:23,034 - INFO - Scanning 127.0.0.1
+2025-09-29 22:26:55,635 - INFO - Results saved to scan_results.json
+2025-09-29 22:26:55,635 - INFO - Scan complete
+2025-09-29 22:33:37,713 - INFO - Scan speed: stealth
+2025-09-29 22:33:50,970 - INFO - Starting discovery on 127.0.0.1
+2025-09-29 22:33:51,283 - INFO - Found 1 active devices: ['127.0.0.1']
+2025-09-29 22:33:51,283 - INFO - Scanning 127.0.0.1
+2025-09-29 22:34:31,721 - INFO - Scan speed: stealth
+2025-09-29 22:35:05,875 - INFO - Starting discovery on 192.168.1.0/24
